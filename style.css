@@ -103,5 +103,10 @@ img {
 }
 
 // Class name for chosen item
-
+.sortable-chosen {
+  box-shadow: 8px 8px 32px #e1e1e1;
+}
 // Class name for dragged item
+.sortable-drag {
+  opacity: 0;
+}
